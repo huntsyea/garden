@@ -3,7 +3,7 @@ title:
 description: 
 aliases: 
 tags: 
-draft: true
+draft: false
 date: 
 ---
 
