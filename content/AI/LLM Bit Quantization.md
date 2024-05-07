@@ -1,3 +1,16 @@
+---
+title: LLM Bit Quantization
+description: 
+aliases: 
+tags:
+  - LLM
+  - Learning
+  - Local
+draft: false
+date: 2024-05-01
+---
+
+
 Bit quantization is a process used in data compression and digital signal processing to reduce the number of bits required to represent data without significantly losing its original quality.
 
 In simple terms, when we capture or generate digital data (like an image or sound), each pixel or sample is represented by a certain number of bits. For example, an 8-bit image means that each pixel is represented by 8 bits, allowing for 256 possible values (from 0 to 255).
