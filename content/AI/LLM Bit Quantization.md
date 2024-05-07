@@ -3,9 +3,7 @@ title: LLM Bit Quantization
 description: 
 aliases: 
 tags:
-  - LLM
   - Learning
-  - Local
 draft: false
 date: 2024-05-01
 ---
