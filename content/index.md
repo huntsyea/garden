@@ -1,5 +1,5 @@
 ---
-title: My Notes
+title: 
 description: 
 aliases: 
 tags: 
