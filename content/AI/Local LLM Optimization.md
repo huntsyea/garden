@@ -1,3 +1,15 @@
+---
+title: Local LLM Optimization
+description: 
+aliases: 
+tags:
+  - Learning
+  - LLM
+  - Local
+draft: false
+date: 2024-05-01
+---
+
 To achieve good performance with large language models (LLMs) on your Mac with an 8GB RAM, you'll want to focus on models and configurations that are efficient in terms of memory usage and computational requirements.
 
 Firstly, consider using models that have been specifically optimized for lower memory footprints. For instance, some LLMs like Google's T5-Small or Microsoft's DistilBERT have been designed to be smaller and more memory-efficient than their larger counterparts. These models may not provide the same level of performance as more resource-intensive models but are better suited for systems with limited RAM.
