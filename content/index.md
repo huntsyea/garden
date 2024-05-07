@@ -1,7 +1,6 @@
 ---
-title: My Digital Garden
+title: Welcome!
 draft: false
 ---
-# 
-this is a test
-![[./2BAA670B-4D3D-41E8-A9C9-F6E3C3E95D2D.jpeg|2BAA670B-4D3D-41E8-A9C9-F6E3C3E95D2D]]
+# 🧐 What is this?
+This is a live repository of my notes, often called a [digital garden](https://maggieappleton.com/garden-history). This is the space all of learning, ideas, and reading notes get dumped. There is rarely any level of polish, so keep that in mind when browsing. 
