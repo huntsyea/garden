@@ -4,8 +4,6 @@ description:
 aliases: 
 tags:
   - Learning
-  - LLM
-  - Local
 draft: false
 date: 2024-05-01
 ---
