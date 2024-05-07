@@ -1,5 +1,5 @@
 ---
-title: 
+title: My Digital Garden
 description: 
 aliases: 
 tags: 
