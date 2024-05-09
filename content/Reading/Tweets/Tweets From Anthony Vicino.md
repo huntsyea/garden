@@ -1,0 +1,56 @@
+---
+title: Tweets From Anthony Vicino (Highlights)
+tags: tweets
+date: 2023-12-26 08:53:14.707154+00:00
+---
+Tweets From Anthony Vicino - @AnthonyVicino on Twitter
+
+## About
+- Author: [[@AnthonyVicino on Twitter|@AnthonyVicino on Twitter]]
+- Full Title: Tweets From Anthony Vicino
+- URL: https://twitter.com/AnthonyVicino
+
+## My Highlights
+> I've seen this inversion play out a few times now.
+> The inflection point seems to happen pretty regularly between 5-10 years into an activity.
+> The dopamine associated with the activity gets harder and harder to come by as your abilities plateau.
+> It no longer requires the same focus and attention and presence.
+> Then one day, you stumble into something else...
+> Something that sparks intrigue and fast learning and easy dopamine and...
+> As you slowly transition from one activity to the next, your sense of identity and belonging also shift...
+> Shift from the stagnant routine of what was to the fresh thrill of novelty.
+> I first noticed this transition when I was running on the cross country and track team in college..
+> A couple guys who'd been seniors my freshman year came back and I was bummed to learn they'd stopped running entirely and gotten into lifting.
+> It seemed hard to fathom how you could just walk away from something that was such a core part of your identity for so long...
+> But I saw it happen over and over again in my friends as they hit 25-28 years old...
+> And then the unthinkable happened...
+> I found rock climbing...
+> Practically overnight I gave up running...
+> This thing that had been my everything? Done with it.
+> All I cared about was climbing.
+> I was convinced this was what I was meant to be... and I dedicated myself to the sport every day for a decade...
+> Me and my friends lived and breathed climbing... nothing mattered beyond our next climb.
+> It was everything.
+> But over time, the same pattern reemerged...
+> Friends who'd been in the game longer than me starting hitting their mid-to-late 30s....
+> And one by one they started to fall off and pursue other interests.
+> For a time, this actually 'caused me to fall into a bit of a depression because I hated the idea that it was possible (and maybe even inevitable) to fall out of love with a thing that had consumed you so deeply.
+> I just couldn't understand it...
+> Until one day...
+> Around the time I turned 35, I started to notice something...
+> The spark was fading.
+> All that kept me going to the wall was my dogged loyalty to the memory of a love I'd once felt for this thing.
+> Slowly, I came to terms with the fact that I was no longer A Rock Climber...
+> Now I was just a guy who climbs.
+> It was just a thing I did... Not a reflection of who I was.
+> For a time I took this to mean I was a failure.
+> But in the end, learning to shed identities that no longer serve you is the only way to move forward in life.
+> I have no idea if that's whats playing out here with the shift from lifting to running...
+> But something I've come to realize over the years after having fallen so deeply in love with running and lifting and rock climbing and brazilian jiu jitsu and tennis and so much more...
+> There's nothing inherently magical about these activities.
+> The magic is simply in WHO YOU BECOME in the process of challenging yourself.
+> One of my great climbing mentors once said:
+> **"Doesn't really matter what you choose to do with your life, as long as you choose to do hard things."**
+> Do hard things, my friend.
+\-  ([View Tweet](https://twitter.com/AnthonyVicino/status/1739400997774987513))
+
