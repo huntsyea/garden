@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg";
+import * as Plugin from "./quartz/plugins";
 
 /**
  * Quartz 4.0 Configuration
@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "@huntsyea Open Notes",
+    pageTitle: "huntsyea's",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -33,19 +33,19 @@ const config: QuartzConfig = {
           gray: "#4b5563",
           darkgray: "#6b7280",
           dark: "#111827",
-          secondary: "#0A0D4BFF",
+          secondary: "#4b5563",
           tertiary: "#006be6",
           highlight: "rgba(224, 239, 255, 0.94)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
+          light: "#202124",
+          lightgray: "#e5e7eb",
           gray: "#4b5563",
-          darkgray: "#d4d4d4",
-          dark: "#4b5563",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          darkgray: "#6b7275",
+          dark: "#e5e7eb",
+          secondary: "#4b5563",
+          tertiary: "#006be6",
+          highlight: "rgba(224, 239, 255, .85)",
         },
       },
     },
@@ -86,6 +86,6 @@ const config: QuartzConfig = {
       Plugin.NotFoundPage(),
     ],
   },
-}
+};
 
-export default config
+export default config;
