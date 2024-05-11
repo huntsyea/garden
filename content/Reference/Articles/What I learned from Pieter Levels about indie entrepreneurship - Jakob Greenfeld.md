@@ -1,12 +1,14 @@
 ---
 title: What I learned from Pieter Levels about indie entrepreneurship - Jakob Greenfeld
-tags: articles, Jakob-Greenfeld
+tags: articles, jakob-greenfeld
 author: Jakob Greenfeld
 url: https://jakobgreenfeld.com/make-levels
 date: 02-15-2024
 ---
+[Link to Original](https://jakobgreenfeld.com/make-levels)
+
 # Highlights
-> [!QUOTE]+ 
+> [!QUOTE]+ Highlights
 > According to Pieter the stages on the way to a successful bootstrapped business are:
 > 1. Idea
 > 2. Build
