@@ -5,8 +5,6 @@ author: Hunter Yeagley
 url: https://twitter.com/i/lists/1761960855552344411?ts=1709074874.915198
 date: 05-11-2024
 ---
-[Link to Original](https://twitter.com/i/lists/1761960855552344411?ts=1709074874.915198)
-
 # Highlights
 > [!QUOTE]+ Highlights
 > ![](https://pbs.twimg.com/media/GHVRytpWUAEdMri.jpg) ([View Highlight](https://read.readwise.io/read/01hqpen4p6vegjnarv7v4srfpc))
