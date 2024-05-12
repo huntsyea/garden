@@ -1,6 +1,6 @@
 ---
 title: "Hunter’s List Twitter List: February 27 - Hunter Yeagley"
-tags: articles, hunter-yeagley
+tags: hunter-yeagley
 author: Hunter Yeagley
 url: https://twitter.com/i/lists/1761960855552344411?ts=1709031678.599221
 date: 02-27-2024

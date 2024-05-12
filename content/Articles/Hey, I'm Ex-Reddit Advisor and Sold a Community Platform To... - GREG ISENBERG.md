@@ -1,6 +1,6 @@
 ---
 title: Hey, I'm Ex-Reddit Advisor and Sold a Community Platform To... - GREG ISENBERG
-tags: articles, greg-isenberg
+tags: greg-isenberg
 author: GREG ISENBERG
 url: https://twitter.com/gregisenberg/status/1746192048103776540?s=42
 date: 01-14-2024

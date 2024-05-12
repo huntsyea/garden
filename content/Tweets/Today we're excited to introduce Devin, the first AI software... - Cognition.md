@@ -1,6 +1,6 @@
 ---
 title: Today we're excited to introduce Devin, the first AI software... - Cognition
-tags: tweets, cognition
+tags: cognition
 author: Cognition
 url: https://twitter.com/cognition_labs/status/1767548763134964000
 date: 05-11-2024

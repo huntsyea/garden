@@ -1,6 +1,6 @@
 ---
 title: The Myth of the Housing Bubble - James Rodriguez
-tags: articles, james-rodriguez
+tags: james-rodriguez
 author: James Rodriguez
 url: https://www.businessinsider.com/housing-market-bubble-home-prices-stay-high-crash-real-estate-2024-2?utm_source=Iterable&utm_medium=email&utm_campaign=campaign_9029934
 date: 05-11-2024

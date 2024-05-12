@@ -1,6 +1,6 @@
 ---
 title: How We Brought the Online Collections Into the Modern Age Using Web Technology of the Past - Patrick Cartlidge
-tags: articles, patrick-cartlidge
+tags: patrick-cartlidge
 author: Patrick Cartlidge
 url: https://www.vam.ac.uk/blog/digital/how-we-brought-the-online-collections-into-the-modern-age-using-web-technology-of-the-past?doing_wp_cron=1710208828.9498260021209716796875
 date: 03-12-2024
