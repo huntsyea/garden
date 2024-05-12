@@ -5,8 +5,6 @@ author: Peter Meglis
 url: https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/
 date: 05-11-2024
 ---
-[Link to Original](https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/)
-
 # Highlights
 > [!QUOTE]+ Highlights
 > Benefits from using Obsidian:

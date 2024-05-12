@@ -5,8 +5,6 @@ author: Hunter Yeagley
 url: https://twitter.com/i/lists/1761960855552344411?ts=1708988421.933855
 date: 02-27-2024
 ---
-[Link to Original](https://twitter.com/i/lists/1761960855552344411?ts=1708988421.933855)
-
 # Highlights
 > [!QUOTE]+ Highlights
 > To live up to your full potential, every human needs to do some things that won't pay off for 5, 10, 20, or even 100 years. ([View Highlight](https://read.readwise.io/read/01hqngyzh2k5yp4k4f5a5kdjse))
