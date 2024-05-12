@@ -49,23 +49,3 @@ export const defaultListPageLayout: PageLayout = {
 }
 
 
-Component.Explorer({
-  sortFn: (a: Node, b: Node) => { // Provide correct types for parameters "a" and "b"
-    if ((!a.file && !b.file) || (a.file && b.file)) {
-      return a.displayName.localeCompare(b.displayName);
-    }
-    if (a.file && !b.file) {
-      return -1;
-    } else {
-      return 1;
-    }
-  },
-
-  filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["articles", "tweets"])
-    return !omit.has(node.name.toLowerCase())
-  },
-
-  order: ["filter", "sort", "map"] // order in which to apply filter and sort functions
-})
