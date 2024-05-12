@@ -5,8 +5,6 @@ author: Hunter Yeagley
 url: https://twitter.com/i/lists/1761960855552344411?ts=1709031678.599221
 date: 02-27-2024
 ---
-[Link to Original](https://twitter.com/i/lists/1761960855552344411?ts=1709031678.599221)
-
 # Highlights
 > [!QUOTE]+ Highlights
 > Initiating a project on your own terms is a powerful assertion of independence
