@@ -5,8 +5,6 @@ author: GREG ISENBERG
 url: https://twitter.com/gregisenberg/status/1746192048103776540?s=42
 date: 01-14-2024
 ---
-[Link to Original](https://twitter.com/gregisenberg/status/1746192048103776540?s=42)
-
 # Highlights
 > [!QUOTE]+ Highlights
 > A few people DM-ing how I'd think about what type of membership to create
