@@ -1,6 +1,6 @@
 ---
 title: "3-2-1: How to ask for what you want, the mistake creators make, and letting go - James Clear"
-tags: articles, james-clear
+tags: james-clear
 author: James Clear
 url: 
 date: 05-11-2024
