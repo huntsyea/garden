@@ -1,6 +1,6 @@
 ---
 title: What I learned from Pieter Levels about indie entrepreneurship - Jakob Greenfeld
-tags: articles, jakob-greenfeld
+tags: jakob-greenfeld
 author: Jakob Greenfeld
 url: https://jakobgreenfeld.com/make-levels
 date: 02-15-2024
