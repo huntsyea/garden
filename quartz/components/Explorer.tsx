@@ -33,7 +33,13 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+
+  filterFn: (node) => {
+    // set containing names of everything you want to filter out
+    const omit = new Set(["articles", "tweets", "tags"])
+    return !omit.has(node.name.toLowerCase())
+  },
+
   order: ["filter", "map", "sort"],
 } satisfies Options
 
