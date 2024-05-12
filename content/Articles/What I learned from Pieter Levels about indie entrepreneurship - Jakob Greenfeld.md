@@ -5,8 +5,6 @@ author: Jakob Greenfeld
 url: https://jakobgreenfeld.com/make-levels
 date: 02-15-2024
 ---
-[Link to Original](https://jakobgreenfeld.com/make-levels)
-
 # Highlights
 > [!QUOTE]+ Highlights
 > According to Pieter the stages on the way to a successful bootstrapped business are:
