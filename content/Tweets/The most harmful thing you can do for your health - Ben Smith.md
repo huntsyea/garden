@@ -1,6 +1,6 @@
 ---
 title: "The most harmful thing you can do for your health: - Ben Smith"
-tags: tweets, ben-smith
+tags: ben-smith
 author: Ben Smith
 url: https://twitter.com/bensmithlive/status/1776615009671364788
 date: 04-08-2024
