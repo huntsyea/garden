@@ -12,11 +12,13 @@ interface ContentMetaOptions {
    */
   showReadingTime: boolean
   showComma: boolean
+  showurl: boolean
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
   showComma: true,
+  showurl: true,
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -40,6 +42,15 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           minutes: Math.ceil(minutes),
         })
         segments.push(displayedTime)
+      }
+      
+      // Display revision time if enabled
+      if (options.showurl) {
+        const url = fileData.frontmatter?.url
+        if (url != null) {
+          const displayedURL = <br><span>Source: <a href={url}>{url}</a></span></br>
+          segments.push(displayedURL)
+        }
       }
 
       const segmentsElements = segments.map((segment) => <span>{segment}</span>)

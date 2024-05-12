@@ -33,7 +33,7 @@ const defaultOptions: Options = {
   externalLinkIcon: true,
 }
 
-export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
+export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts,) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "LinkProcessing",

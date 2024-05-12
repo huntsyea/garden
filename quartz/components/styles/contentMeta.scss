@@ -3,11 +3,13 @@
   color: var(--tertiary);
 
   &[show-comma="true"] {
-    > span:not(:last-child) {
+    > span {
       margin-right: 8px;
 
-      &::after {
-        content: ",";
+      &:first-child {
+        &::after {
+          content: ",";
+        }
       }
     }
   }
