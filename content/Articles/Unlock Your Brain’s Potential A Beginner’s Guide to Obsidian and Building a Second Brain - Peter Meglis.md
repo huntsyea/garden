@@ -1,6 +1,6 @@
 ---
 title: "Unlock Your Brain’s Potential: A Beginner’s Guide to Obsidian and Building a Second Brain - Peter Meglis"
-tags: articles, obsidian, productivity, peter-meglis
+tags: obsidian, productivity, peter-meglis
 author: Peter Meglis
 url: https://petermeglis.com/blog/unlock-your-brains-potential-a-beginners-guide-to-obsidian-and-building-a-second-brain/
 date: 05-11-2024
