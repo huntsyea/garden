@@ -2,8 +2,9 @@
 title: Home
 draft: false
 Created: 2024-05-07T00:00
-Updated: 2024-06-11T15:24
+Updated: 2024-06-11T15:39
 publish: true
+Title: index
 ---
 # What is this?
 This is a live repository of my notes, often called a [digital garden](https://maggieappleton.com/garden-history). This is the space all of learning, ideas, and reading notes get dumped. There is rarely any level of polish, so keep that in mind when browsing. 
