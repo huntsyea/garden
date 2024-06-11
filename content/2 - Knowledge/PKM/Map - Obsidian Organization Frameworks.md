@@ -1,9 +1,9 @@
 ---
 Created: 2024-05-28T15:38
-Updated: 2024-06-11T15:23
+Updated: 2024-06-11T15:25
 tags:
-  - productivity
   - pkm
+  - productivity
 draft: false
 publish: true
 Title: Map - Obsidian Organization Frameworks
