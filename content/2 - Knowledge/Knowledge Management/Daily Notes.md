@@ -1,8 +1,8 @@
 ---
 Created: 2024-05-28T17:26
-Updated: 2024-06-11T17:30
+Updated: 2024-06-11T17:48
 publish: true
-title: ""
+title: Daily Notes
 ---
 Daily notes in Obsidian serve as a powerful tool for capturing day-to-day activities, thoughts, and tasks. Each day, a new note is created, typically with the date as the title, providing a chronological record of your daily interactions and reflections.
 
