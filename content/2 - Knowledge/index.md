@@ -1,7 +1,8 @@
 ---
 Created: 2024-06-11T17:13
-Updated: 2024-06-11T17:39
-title: index
+Updated: 2024-06-11T17:44
+title: Knowledge
 publish: true
-disabled rules: 
+disabled rules:
+  - all
 ---
