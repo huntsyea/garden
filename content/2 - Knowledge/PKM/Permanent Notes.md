@@ -1,6 +1,6 @@
 ---
 Created: 2024-05-28T17:25
-Updated: 2024-06-11T15:25
+Updated: 2024-06-11T16:43
 Title: Permanent Notes
 publish: true
 ---
