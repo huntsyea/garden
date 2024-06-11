@@ -1,12 +1,12 @@
 ---
 Created: 2024-05-28T15:38
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:31
 tags:
   - pkm
   - productivity
 draft: false
 publish: true
-Title: Obsidian Organization Frameworks
+title: Organization Frameworks
 ---
 # Frameworks Types
 ---
