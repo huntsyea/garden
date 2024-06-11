@@ -1,6 +1,6 @@
 ---
 Created: 2024-05-28T15:38
-Updated: 2024-06-11T15:25
+Updated: 2024-06-11T16:43
 publish: true
 Title: Zettlekasten
 ---
