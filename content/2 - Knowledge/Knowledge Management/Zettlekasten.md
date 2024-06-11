@@ -1,10 +1,10 @@
 ---
 Created: 2024-05-28T15:38
-Updated: 2024-06-11T17:58
+Updated: 2024-06-11T18:07
 publish: true
 title: Zettlekasten
 ---
-Developed by sociologist Niklas Luhmann, the Zettelkasten method is a powerful approach for managing knowledge and ideas. It is particularly effective for researchers, writers, and anyone who deals with complex information.
+Developed by sociologist Niklas Luhmann, the Zettelkasten method is a powerful approach for [[./index|managing knowledge and ideas]]. It is particularly effective for researchers, writers, and anyone who deals with complex information.
 
 At its core, Zettelkasten revolves around creating individual notes, each containing a single idea or piece of information. These notes are then linked together in a non-linear fashion, creating a web of interconnected concepts. This structure mimics the way our brains naturally store and retrieve information, making it easier to discover new insights and connections.
 
