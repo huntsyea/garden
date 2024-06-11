@@ -1,13 +1,17 @@
 ---
 title: LLM Bit Quantization
 description: 
-aliases: 
+aliases: []
 tags:
+  - AI
   - Learning
   - LLM
-  - AI
 draft: false
 Date: 2024-05-01
+Created: 2024-04-29T10:44
+Updated: 2024-06-11T15:23
+publish: true
+Title: Bit Quantization
 ---
 
 
