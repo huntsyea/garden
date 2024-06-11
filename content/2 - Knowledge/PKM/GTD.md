@@ -1,8 +1,8 @@
 ---
 Created: 2024-05-28T17:15
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:31
 publish: true
-Title: GTD
+title: GTD
 ---
 The **GTD** methodology is designed to help individuals increase productivity and reduce stress by organizing tasks and projects in a systematic way. It is built around five core components:
 
