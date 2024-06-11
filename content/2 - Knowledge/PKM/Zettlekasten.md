@@ -1,8 +1,8 @@
 ---
 Created: 2024-05-28T15:38
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:31
 publish: true
-Title: Zettlekasten
+title: Zettlekasten
 ---
 Developed by sociologist Niklas Luhmann, the Zettelkasten method is a powerful approach for managing knowledge and ideas. It is particularly effective for researchers, writers, and anyone who deals with complex information.
 

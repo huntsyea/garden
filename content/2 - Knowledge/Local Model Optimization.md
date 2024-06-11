@@ -1,5 +1,5 @@
 ---
-title: Local LLM Optimization
+title: ""
 description: 
 aliases: []
 tags:
@@ -9,9 +9,8 @@ tags:
 draft: false
 Date: 2024-05-01
 Created: 2024-04-29T10:48
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:30
 publish: true
-Title: Local Model Optimization
 ---
 
 To achieve good performance with large language models (LLMs) on your Mac with an 8GB RAM, you'll want to focus on models and configurations that are efficient in terms of memory usage and computational requirements.

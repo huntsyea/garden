@@ -1,8 +1,8 @@
 ---
 Created: 2024-05-28T17:24
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:31
 publish: true
-Title: Atomic Notes
+title: Atomic Notes
 ---
 Atomic notes are a fundamental concept in effective note-taking and knowledge management. They focus on breaking down information into the smallest, most meaningful units, each containing a single idea or concept. This approach has several advantages:
 

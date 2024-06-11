@@ -1,8 +1,8 @@
 ---
 Created: 2024-05-28T15:41
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:31
 publish: true
-Title: PARA
+title: PARA
 ---
 The PARA method, created by Tiago Forte, is designed to help individuals organize their digital information effectively. It divides information into four distinct categories, making it easier to manage and retrieve.
 

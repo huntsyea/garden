@@ -1,8 +1,8 @@
 ---
 Created: 2024-05-28T17:17
-Updated: 2024-06-11T16:43
+Updated: 2024-06-11T17:38
 publish: true
-Title: Maps Of Content
+title: Maps Of Content
 ---
 Maps of Content (MOCs) serve as high-level overview notes that act as hubs for related topics. They help users navigate complex information structures by providing a centralized entry point for exploring related notes.
 
