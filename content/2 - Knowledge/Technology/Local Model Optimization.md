@@ -1,5 +1,5 @@
 ---
-title: ""
+title: Local Model Optimization
 description: 
 aliases: []
 tags:
@@ -9,7 +9,7 @@ tags:
 draft: false
 Date: 2024-05-01
 Created: 2024-04-29T10:48
-Updated: 2024-06-11T17:30
+Updated: 2024-06-11T19:09
 publish: true
 ---
 

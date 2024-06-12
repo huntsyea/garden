@@ -1,6 +1,6 @@
 ---
 Created: 2024-05-28T17:24
-Updated: 2024-06-11T17:58
+Updated: 2024-06-11T19:22
 publish: true
 title: Atomic Notes
 ---

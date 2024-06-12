@@ -2,7 +2,7 @@
 title: Home
 draft: false
 Created: 2024-05-07T00:00
-Updated: 2024-06-11T17:38
+Updated: 2024-06-11T19:29
 publish: true
 disabled rules:
   - all

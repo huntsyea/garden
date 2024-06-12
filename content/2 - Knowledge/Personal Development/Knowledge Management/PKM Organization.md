@@ -1,12 +1,12 @@
 ---
 Created: 2024-05-28T15:38
-Updated: 2024-06-11T17:58
+Updated: 2024-06-11T19:10
 tags:
   - pkm
   - productivity
 draft: false
 publish: true
-title: Organization Frameworks
+title: PKM Organization
 ---
 # Frameworks Types
 ---
